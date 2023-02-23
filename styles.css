@@ -1,0 +1,184 @@
+.main {
+  margin: 0px;
+  padding: 0px;
+  background-color: gray;
+}
+a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  cursor: pointer;
+}
+.container {
+  background-color: rgb(255, 255, 255);
+  height: 170vh;
+  width: 65em !important;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.head {
+  background-color: rgb(220 131 130);
+  margin: 0px;
+  padding: 0px;
+  height: 18rem;
+}
+.img {
+  border-radius: 100%;
+  width: 175px;
+  height: 172px;
+  margin: 2rem 0 2rem 4rem;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}
+.name {
+  margin-top: 6rem;
+  margin-bottom: 1rem;
+  margin-left: 3rem;
+  color: white;
+}
+.mail {
+  color: white;
+  margin-top: 1rem;
+  margin-left: 3rem;
+  font-style: normal;
+  font-size: medium;
+}
+.phone {
+  margin-left: 1rem;
+  color: white;
+  font-style: normal;
+  font-size: medium;
+}
+.location {
+  margin-left: 1rem;
+  color: white;
+  font-style: normal;
+  font-size: medium;
+}
+.linkdn {
+  margin: 0.5rem 0 0 1rem;
+  color: white;
+  font-style: normal;
+  display: block;
+  margin-left: 3rem;
+  font-size: medium;
+}
+.profile {
+  margin-left: 3rem;
+}
+.eduhead {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 2rem;
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  height: 2.5rem;
+  background-color: rgb(252 246 246);
+  text-size-adjust: initial;
+}
+.headstyle {
+  padding-top: 0.4rem;
+}
+table {
+  width: 99%;
+}
+td {
+  padding-left: 3.5rem;
+  padding-top: 1rem;
+}
+.pinker {
+  color: rgb(220 131 130);
+}
+.skills {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 3rem;
+
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  height: 2.5rem;
+  background-color: rgb(252 246 246);
+  text-size-adjust: initial;
+}
+.skillStyle {
+  padding-top: 0.4rem;
+}
+.horizontal li {
+  float: left;
+  width: 320px;
+  padding: 2px 0px;
+}
+
+ul {
+  width: 100%;
+  margin-left: 3rem;
+}
+.intrests {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 4rem;
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  height: 2.5rem;
+  background-color: rgb(252 246 246);
+  text-size-adjust: initial;
+}
+.intrestStyle {
+  padding-top: 0.4rem;
+}
+.language {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 4rem;
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  height: 2.5rem;
+  background-color: rgb(252 246 246);
+  text-size-adjust: initial;
+}
+.langStyle {
+  padding-top: 0.4rem;
+}
+.decl {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 4rem;
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  height: 2.5rem;
+  background-color: rgb(252 246 246);
+  text-size-adjust: initial;
+}
+.para {
+  margin-left: 3.5rem;
+  margin-top: 2.5rem;
+}
+.signimg {
+  height: 170px;
+  width: 170px;
+  float: right;
+  margin-top: -2rem;
+
+  margin-right: 6rem;
+}
+.under {
+  width: 15rem;
+  border-top: 2px solid black;
+  float: right;
+  margin-top: 8em;
+  margin-right: -12rem;
+}
+
+.dateAndLocation {
+  width: 15rem;
+  float: right;
+  margin-top: 9em;
+  margin-right: -20rem;
+}
